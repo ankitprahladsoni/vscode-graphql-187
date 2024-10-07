@@ -1,0 +1,1 @@
+# vscode-graphql-187
