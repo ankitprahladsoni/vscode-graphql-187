@@ -1,0 +1,7 @@
+fragment basicBizInfo on Business {
+  name
+  id
+  rating
+  review_count
+  photos
+}
